@@ -1,0 +1,6 @@
+,Animal Name,Hair,Eggs,Milk,Predictor,Backbone,Toothed,Legs,Domestic,Tall,Airbone,Wild
+0,Bear,1,1,1,1,1,1,2,0,4,1,1
+1,Tiger,0,0,0,0,1,0,2,0,5,1,1
+2,Lion,1,1,0,0,1,0,2,0,5,1,1
+3,Cheetah,0,1,0,1,1,1,2,0,4,1,1
+4,Leopard,1,0,1,1,1,1,2,0,4,1,1
